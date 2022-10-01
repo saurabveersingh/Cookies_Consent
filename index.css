@@ -85,17 +85,19 @@ main{
     margin: 0 auto;
 }
 
-@media only screen and (max-width:900px){
+@media only screen and (max-width:600px){
     main{
         width:90vw;
     }
 
     .modal{
         width: 80vw;
+        height: fit-content;
     }
 
     .modal-inner{
         width: 70vw;
+        height: fit-content;
     }
 }
 
