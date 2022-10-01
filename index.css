@@ -58,7 +58,7 @@ img{
 }
 
 main{
-    width: 90vw;
+    width: 400px;
     margin: 0 auto;
 }
 
@@ -83,6 +83,20 @@ main{
 .modal-inner{
     width: 290px;
     margin: 0 auto;
+}
+
+@media only screen and (max-width:900px){
+    main{
+        width:90vw;
+    }
+
+    .modal{
+        width: 80vw;
+    }
+
+    .modal-inner{
+        width: 70vw;
+    }
 }
 
 .modal-inner-loading{
