@@ -1,2 +1,2 @@
 # Cookies_Consent
-A practical joke in form of cookie popup (Javascript Project)
+Site Deployed on https://saurab-cookies.netlify.app/
